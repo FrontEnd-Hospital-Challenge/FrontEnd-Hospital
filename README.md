@@ -11,6 +11,11 @@ O **Challenge FIAP** é uma iniciativa acadêmica que desafia os alunos a resolv
 
 Este repositório representa a **camada visual** da aplicação, responsável por interações com os usuários, apresentação de dados e consumo de APIs.
 
+Desenvolvido por:
+- 👨‍💻 Marcelo Alexandre dos Santos
+- 👨‍💻 Leonardo Rodrigues Martins
+- 👩‍💻 Poliana Batista Sarmento
+
 ---
 
 ## 🖥️ Tecnologias Utilizadas
