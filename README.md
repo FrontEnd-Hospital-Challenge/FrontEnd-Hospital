@@ -9,6 +9,10 @@ Aqui você encontrará toda a estrutura da interface do usuário (UI), construí
 
 O **Challenge FIAP** é uma iniciativa acadêmica que desafia os alunos a resolverem problemas reais com soluções tecnológicas inovadoras.
 
+Desafio: Criar uma maneira/ferramenta apra auxiliar aqueles com dificuldades de utilizar o celular na saúde digital com o resultado esperado de diminuir a taxa de absenteísmo!
+
+A ideia principal do grupo é de criar um site que irá auxiliar o usuário a criar/acessar sua conta em tempo real e caso a utilização das ferramentas oferecidas pelo site não seja o suficiente, irá repassar o usuário para um atendente real que poderá auxiliar no caso.
+
 Este repositório representa a **camada visual** da aplicação, responsável por interações com os usuários, apresentação de dados e consumo de APIs.
 
 Desenvolvido por:
